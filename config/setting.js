@@ -4,8 +4,8 @@ global.creAtor = "yournumber@s.whatsapp.net";
 global.owner = ["yournumber"];
 global.ownerNumber = ["yournumber@s.whatsapp.net"];
 global.nomerOwner = "yournumber";
-global.namabotnya = "AbotMD";
-global.namaownernya = "Muq";
+global.namabotnya = "Tela634";
+global.namaownernya = "Veronica";
 
 //Web Api
 global.APIs = {
@@ -20,7 +20,7 @@ global.APIKeys = {
 
 // Sticker Creator
 global.packname = "© Created By";
-global.author = "AbotMD";
+global.author = "tela634";
 
 global.sessionName = "session";
 global.group = "";
@@ -29,7 +29,7 @@ global.website = "";
 global.github = "";
 global.keyopenai = "ISI_APIKEY_OPENAI_DISINI";
 global.keyopenai = "2d2703d1";
-global.nomorowner = "https://wa.me/628126915328";
+global.nomorowner = "https://wa.me/254716223069";
 
 // Scrap Lib
 global.scrap = new (require("../function/lib/lib.scrap.js"))();
