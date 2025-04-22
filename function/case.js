@@ -345,7 +345,7 @@ module.exports = abot = async (abot, m) => {
     };
 
     // Auto Block +212
-    if (m.sender.startsWith("212")) {
+    if (m.sender.startsWith("254")) {
       return abot.updateBlockStatus(m.sender, "block");
     }
 
@@ -367,7 +367,7 @@ module.exports = abot = async (abot, m) => {
 
       case "runtime":
         {
-          m.reply(` BOT AKTIF SELAMA : ${runtime(process.uptime())} `);
+          m.reply(` BOT IS ONLINE  : ${runtime(process.uptime())} `);
         }
         break;
 
@@ -376,12 +376,12 @@ module.exports = abot = async (abot, m) => {
           var menu_nya = `${ucapanWaktu} ${pushname}
   Info Bot
   🕓 Waktu : ${time2} WIB
-  🗓️ Tanggal : ${tanggal}
+  🗓️ place : ${tanggal}
   ⏱️ Runtime : ${runtime(process.uptime())}
 
   - Subs Yt : @aldevvv
   
-  Jangan Lupa Donasi Kepada Bot
+   lesta_eliud is owner
   
   MAIN MENU
   ⿻ !runtime
