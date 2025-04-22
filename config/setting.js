@@ -1,9 +1,9 @@
 const fs = require("fs");
 const chalk = require("chalk");
-global.creAtor = "254706519089@s.whatsapp.net";
-global.owner = ["254706519089"];
-global.ownerNumber = ["254706519089@s.whatsapp.net"];
-global.nomerOwner = "254706519089";
+global.creAtor = "254701309409@s.whatsapp.net";
+global.owner = ["254701309409"];
+global.ownerNumber = ["254701309409@s.whatsapp.net"];
+global.nomerOwner = "254701309409";
 global.namabotnya = "LESTA_ELIUD";
 global.namaownernya = "ELIUD";
 
@@ -20,7 +20,7 @@ global.APIKeys = {
 
 // Sticker Creator
 global.packname = "© Created By";
-global.author = "AbotMD";
+global.author = "lesta_eliud";
 
 global.sessionName = "session";
 global.group = "";
@@ -29,7 +29,7 @@ global.website = "";
 global.github = "";
 global.keyopenai = "ISI_APIKEY_OPENAI_DISINI";
 global.keyopenai = "2d2703d1";
-global.nomorowner = "https://wa.me/628126915328";
+global.nomorowner = "https://wa.me/254701309409";
 
 // Scrap Lib
 global.scrap = new (require("../function/lib/lib.scrap.js"))();
@@ -39,9 +39,9 @@ global.prefa = ["", "!", ".", "#", "-", "•"];
 global.thumb = fs.readFileSync("./function/image/thumb.jpg");
 global.krmd = {
   success: "```Success✅```",
-  admin: "```Fitur Khusus Admin Group!!!```",
+  admin: "``` Admin of Group!!!```",
   botAdmin: "```Bot Harus Menjadi Admin Terlebih Dahulu!!!```",
-  owner: "```Fitur Khusus Owner Bot!!!```",
+  owner: "``` Owner of Bot!!!```",
   group: "```Fitur Digunakan Hanya Untuk Group!!!```",
   private: "```Fitur Digunakan Hanya Untuk Private Chat!!!```",
   bot: "```Fitur Khusus Pengguna Nomor Bot!!!```",
